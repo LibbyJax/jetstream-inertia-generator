@@ -1,11 +1,11 @@
 {
-    "name": "savannabits/jetstream-inertia-generator",
+    "name": "libbyjax/jetstream-inertia-generator",
     "description": "Admin CRUD generator using Laravel Jetstream, Inertiajs, Vue.js, Pagetables and Tailwindcss",
     "keywords": [
         "savannabits",
         "jetstream-inertia-generator"
     ],
-    "homepage": "https://github.com/LibbyJax/jetstream-inertia-generator",
+    "homepage": "https://github.com/libbyjax/jetstream-inertia-generator",
     "license": "MIT",
     "type": "library",
     "authors": [
